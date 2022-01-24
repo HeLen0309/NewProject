@@ -14,4 +14,8 @@ public class GreenDetails {
 		System.out.println("Java Selenium Frame Work");
 
 	}
+	private void greenNewLocation() {
+		System.out.println("Tambaram");
+	}
+	
 }
