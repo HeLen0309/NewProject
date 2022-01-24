@@ -10,8 +10,12 @@ public class GreenDetails {
 		System.out.println("Another Location:perumbakkam");
 
 	}
-	private void greenNewLocation() {
-		System.out.println("Tambaram");
+	private void greensMainCourse() {
+		System.out.println("Java Selenium Frame Work");
 
 	}
+	private void greenNewLocation() {
+		System.out.println("Tambaram");
+	}
+	
 }
