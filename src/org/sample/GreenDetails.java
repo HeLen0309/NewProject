@@ -10,4 +10,8 @@ public class GreenDetails {
 		System.out.println("Another Location:perumbakkam");
 
 	}
+	private void greenNewLocation() {
+		System.out.println("Tambaram");
+
+	}
 }
